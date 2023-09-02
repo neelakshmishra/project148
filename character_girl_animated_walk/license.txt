@@ -1,0 +1,11 @@
+Model Information:
+* title:	character girl animated walk
+* source:	https://sketchfab.com/3d-models/character-girl-animated-walk-266d11aace6843809d62a1a3ceb9876a
+* author:	Unity  (shehab house) (https://sketchfab.com/shahabahmed)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "character girl animated walk" (https://sketchfab.com/3d-models/character-girl-animated-walk-266d11aace6843809d62a1a3ceb9876a) by Unity  (shehab house) (https://sketchfab.com/shahabahmed) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
